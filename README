@@ -1,0 +1,4 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=409
+
+Simple syntax highlight when commiting a file with Subversion (SVN). 
+This is based on CVS version.
